@@ -5,7 +5,7 @@ I'm Ngabo Socrate a full stack developper
 - 🔭 I’m currently working on an "ERP"
 - 🌱 I’m currently learning "React Native"
 
-
+I look forward to collaborating with you soon
 
 <!--
 **NSocrate/NSocrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
